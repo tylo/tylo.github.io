@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on Hugo in 2 minutes </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>/post/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Mon, 15 Aug 2016 02:06:10 EDT</updated>
+    
+    <item>
+      <title>welcome</title>
+      <link>/post/welcome/</link>
+      <pubDate>Mon, 15 Aug 2016 02:06:10 EDT</pubDate>
+      
+      <guid>/post/welcome/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et nisl eget lorem consequat eleifend non eget mi. Donec a bibendum felis. Aenean eget felis nisi. Nulla facilisis rhoncus ante, sed pellentesque massa placerat vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec semper nisl sit amet interdum dapibus. Suspendisse accumsan pellentesque nisl. Donec lobortis, est ac dictum iaculis, orci dolor pellentesque metus, elementum laoreet neque nibh vitae tortor. Duis et justo pellentesque, malesuada ex sed, elementum orci. Maecenas ut arcu id dolor pretium dictum. Donec vehicula augue id leo ornare consequat. Proin tristique, magna eget pulvinar tempor, turpis dui maximus nunc, pellentesque faucibus felis erat sit amet quam. Aenean ut nibh malesuada, feugiat felis ut, eleifend purus. Praesent eu augue posuere, mollis eros sed, ultrices nibh.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
